@@ -351,3 +351,5 @@ http://t.cn/ReIJOXK
       dive2space qq: 1124361357 Email:dive2space@qq.com  
       Jean_V  qq:2398963799  Email:jianwu925@qq.com
       
+ ### 七、增录：
+ *【中国移动人群画像赛TOP1经验分享】 Datawhale数据科学团队负责人郑雨轩的Top1竞赛经验分享：https://mp.weixin.qq.com/s/4Lt2zwbcsK9rzKGbMmHcYw
